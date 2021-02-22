@@ -35,7 +35,7 @@ function askQuestion() {
     //console.log(candidateAnswer);
 //console.log(correctAnswers[i]);
 
-    if(candidateAnswer.toLowerCase()==correctAnswers[i].toLocaleLowerCase())
+    if(candidateAnswer.toLowerCase()==correctAnswers[i].toLowerCase())
     {
       //console.log("candidateAnswer Correct");
       NumberofCorrectAnswers++;
