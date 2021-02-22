@@ -5,10 +5,10 @@ const input = require('readline-sync');
 // TODO 1.1a: Define candidateName // 
 let candidateName="";
 // TODO 1.2a: Define question, correctAnswer, and candidateAnswer //
-let question;
-question="Who was the first American woman in space? ";
-let correctAnswer;
-correctAnswer="Sally Ride";
+//let question;
+let question="Who was the first American woman in space? ";
+//let correctAnswer;
+let correctAnswer="Sally Ride";
 let candidateAnswer="";
 let questions=["Who was the first American woman in space?",
 "True or false: 5000 meters = 5 kilometers.",
